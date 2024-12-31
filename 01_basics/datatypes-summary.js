@@ -20,3 +20,29 @@
  // Reference (non primitive)
 
  // Array, Objects, Functions
+
+ const heros = ["shaktiman", "naagraj","doga"];
+
+ let myobj ={
+     name: "Abhiay",
+     age: 22,
+ }
+
+ const myFunction = function(){
+    console,log("Hello world");
+ }
+
+ // data type pata kerna:
+
+   // ecma (11.4.3) & find for all of the above.
+
+   console.log(typeof score);
+   console.log(typeof scoreValue);
+   console.log(typeof isLoggedIn);
+   console.log(typeof outsideTemp);
+   console.log(typeof bigNumber);
+   console.log(typeof heros);
+   console.log(typeof myobj);
+   console.log(typeof myFunction);
+   
+
